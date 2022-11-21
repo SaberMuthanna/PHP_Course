@@ -2,19 +2,9 @@
 <?php
 
 // Single Line Comment
-echo 'Test'; // Single Line Comment
-echo 'Test'; # Single Line Comment
+echo 'Test'; // 
+echo 'Test'; 
 echo '<br>';
-/*
-    Line 1
-    Line 2
-  */
-
-/*
-    ====================
-    == My Special App ==
-    ====================
-  */
 
 /* Single Line */
 

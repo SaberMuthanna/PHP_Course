@@ -1,20 +1,20 @@
 <?php
 
-  echo 'We Love PHP';
+  echo 'welcome';
   echo '<br>';
 
-  ECHO 'We Love PHP';
+  ECHO 'welcome';
   ECHO '<br>';
 
-  print 'We Love PHP';
+  print 'welcome';
   print '<br>';
 
-  PRINT 'We Love PHP';
+  PRINT 'welcome';
   PRINT '<br>';
 
 ?>
 
-<?='We Love PHP With Short Tag';?>
+<?='Tag';?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -25,7 +25,7 @@
     <title>Page</title>
   </head>
   <body>
-    <?php echo 'HTML'; ?>
+    <?php echo 'php'; ?>
   </body>
 </html>
-<?php echo 'HTML';
+<?php echo 'php';
